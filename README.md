@@ -1,9 +1,11 @@
-<h1>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=👨🏻‍💻+Matheus+Melloni;👨🏻‍💻+Estudante+de+TI"
-    alt="Matheus Melloni"
-  />
-</h1>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Matheus+Melloni+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Estudante+de+TI"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 **`estudante de TI`**
 ---
