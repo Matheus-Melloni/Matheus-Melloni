@@ -1,16 +1,101 @@
-## Hi there 👋
+# 👨🏻‍💻 Matheus Melloni
 
-<!--
-**Matheus-Melloni/Matheus-Melloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`estudante de TI`**
+---
+Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb/), tenho 18 anos e sou de São Bernardo do Campo, São Paulo. Estou concluindo o Ensino Médio e cursando o Técnico em Informática no SENAC São Bernardo do Campo.
 
-Here are some ideas to get you started:
+ Sou apaixonado por tecnologia e estou sempre em busca de desenvolver meus conhecimentos e habilidades por meio de projetos e novos desafios. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    </a> 
+    <a href="https://github.com/Matheus-Melloni?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Matheus-Melloni?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Matheus-Melloni?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Matheus-Melloni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
+
+<a href="https://www.linkedin.com/in/matheus-melloni-1703062bb/">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
+
+</p>
+
+---
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+         
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+
+<br/>
+<br/>
+
+
+### 📊 Estatísticas
+### 📊 GitHub Extended Stats
+
+<p>
+### 💻 Tecnologias
+
+<br clear="both"/>
+
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img 
+      alt="GitHub Extended Stats"
+      src="https://github-stats-extended.vercel.app/api?username=Matheus-Melloni&theme=github_dark&show_icons=true"
+    />
+  </a>
+</p>
+
+
