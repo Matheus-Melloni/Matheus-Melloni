@@ -91,7 +91,7 @@ Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb
 ### 📊 Estatísticas
 
 <p>
-### 💻 Tecnologias
+
 
 <br clear="both"/>
 
