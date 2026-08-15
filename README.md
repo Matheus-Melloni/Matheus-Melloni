@@ -1,4 +1,9 @@
-# 👨🏻‍💻 Matheus Melloni
+<h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=👨🏻‍💻+Matheus+Melloni;👨🏻‍💻+Estudante+de+TI"
+    alt="Matheus Melloni"
+  />
+</h1>
 
 **`estudante de TI`**
 ---
