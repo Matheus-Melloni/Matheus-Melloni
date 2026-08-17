@@ -7,7 +7,7 @@
   </a>
 </p>
 
-**`estudante de TI`**
+**`Estudante de TI`**
 ---
 Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb/), tenho 18 anos e sou de São Bernardo do Campo, São Paulo. Estou concluindo o Ensino Médio e cursando o Técnico em Informática no SENAC São Bernardo do Campo.
 
