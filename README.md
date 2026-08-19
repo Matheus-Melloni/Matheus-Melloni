@@ -21,14 +21,13 @@ Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Matheus-Melloni?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/Matheus-Melloni?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Matheus-Melloni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/Matheus-Melloni?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/Matheus-Melloni?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba"
+    />
+</a>
 
 
 <a href="https://www.linkedin.com/in/matheus-melloni-1703062bb/">
