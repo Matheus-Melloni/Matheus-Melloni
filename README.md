@@ -91,17 +91,13 @@ Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb
 ### 📊 Estatísticas
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Matheus-Melloni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Melloni&layout=compact&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-  />
+  <a href="https://github.com/Matheus-Melloni">
+    <img 
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=Matheus-Melloni&theme=github_dark&show_icons=true"
+      alt="GitHub Extended Stats"
+    />
+  </a>
 </p>
 
 <br/>
