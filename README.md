@@ -109,12 +109,12 @@ Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb
       srcset="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake-dark.svg"
     />
 
-    <source 
+  <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake.svg"
     />
 
-    <img 
+  <img 
       alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake-dark.svg"
     />
