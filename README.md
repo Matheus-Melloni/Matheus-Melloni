@@ -89,25 +89,21 @@ Me chamo [Matheus Melloni](https://www.linkedin.com/in/matheus-melloni-1703062bb
 
 ### 📊 Estatísticas
 
-<p>
-
-
-<br clear="both"/>
-
-<p>
-  <a href="https://github.com/stats-organization/github-stats-extended">
+<p align="center">
+  <a href="https://github.com/Matheus-Melloni">
     <img 
-      alt="GitHub Extended Stats"
+      height="180em"
       src="https://github-stats-extended.vercel.app/api?username=Matheus-Melloni&theme=github_dark&show_icons=true"
+      alt="GitHub Extended Stats"
     />
   </a>
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
 
-
-
+<p align="center">
+  <img 
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Matheus-Melloni/Matheus-Melloni/output/github-contribution-grid-snake-dark.svg"
+  />
+</p>
